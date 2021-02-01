@@ -1,4 +1,4 @@
-# Android-Calculator
+# Android Scientific Calculator
 Scientific Calculator with Java using Android Studio
 
 ---
